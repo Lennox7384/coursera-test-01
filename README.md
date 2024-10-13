@@ -1,2 +1,2 @@
 # coursera-test-01
-Coursera test repo bgbgbg
+Coursera test repo
